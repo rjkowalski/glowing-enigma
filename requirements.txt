@@ -1,0 +1,5 @@
+pyqrcode
+pypng
+fpdf
+pytube
+langdetect

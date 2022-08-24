@@ -1,2 +1,2 @@
-# glowing-enigma
+# GLOWING-ENIGMA
 A toolbox of Python tips and tricks
